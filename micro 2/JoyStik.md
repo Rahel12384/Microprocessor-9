@@ -51,7 +51,7 @@
 
 
  ## شماتیک مدار:
-![توضیح تصویر]()
+![توضیح تصویر](https://github.com/Rahel12384/Microprocessor-9/blob/main/micro%202/99.png)
 
 
 
