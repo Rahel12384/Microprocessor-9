@@ -28,4 +28,4 @@ delay(100);
 }
 
 ## خروجی آزمایش:
-![alt text]()
+![alt text](https://github.com/Rahel12384/Microprocessor-9/blob/main/micro%202/Report%202/IMG_20250107_174423_377.gif)
