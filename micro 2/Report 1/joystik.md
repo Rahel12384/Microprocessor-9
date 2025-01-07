@@ -85,5 +85,5 @@ VCC جوی‌استیک به پین 5V آردوینو متصل شود.
 
 
 ## خروجی آزمایش:
-![alt text]()
+![alt text](https://github.com/Rahel12384/Microprocessor-9/blob/main/micro%202/Report%201/animation.gif)
 
